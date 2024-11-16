@@ -9,7 +9,7 @@ import Foundation
 
 class Sorting {
     
-    // Return implementation, doesn't mutate the input array
+    // Return implementation; doesn't mutate the input array
     func quickSorted(_ arr: [Int]) -> [Int] {
         let n = arr.count
         if n <= 1 { return arr }
