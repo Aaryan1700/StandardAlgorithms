@@ -23,6 +23,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		725C2AEF2CEC9B0A00518509 /* StandardAlgorithmsTest */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = StandardAlgorithmsTest;
+			sourceTree = "<group>";
+		};
 		729961EA2CE7B59100A6B962 /* StandardAlgorithms */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = StandardAlgorithms;
@@ -45,6 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				729961EA2CE7B59100A6B962 /* StandardAlgorithms */,
+				725C2AEF2CEC9B0A00518509 /* StandardAlgorithmsTest */,
 				729961E92CE7B59100A6B962 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,6 +79,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				725C2AEF2CEC9B0A00518509 /* StandardAlgorithmsTest */,
 				729961EA2CE7B59100A6B962 /* StandardAlgorithms */,
 			);
 			name = StandardAlgorithms;
